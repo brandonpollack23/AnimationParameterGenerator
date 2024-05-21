@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/package.json",
+  "name": "com.brpol.animator-parameter-generator",
+  "version": "1.0.0",
+  "description": "A tool to generate classes that contain static strings for each paramter in Unity, this prevents typos and makes it easier to use the Animator class.",
+  "displayName": "Animator Parameter Generator",
+  "unity": "2017.1",
+  "author": {
+    "name": "Brandon Pollack",
+    "email": "brandonpollack23@gmail.com",
+    "url": "https://laforge.brpol.xyz"
+  },
+  "license": "MIT"
+}
